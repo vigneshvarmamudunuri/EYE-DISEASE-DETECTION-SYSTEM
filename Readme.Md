@@ -243,7 +243,8 @@ http://127.0.0.1:8000/docs
 **vignesh varma mudunuri**
 AI/ML Developer • CSE Student
 
-[GitHub](https://github.com/KalyanGutti)
-[LinkedIn](https://www.linkedin.com/in/kalyan-gutti/)
+[GitHub](https://github.com/vigneshvarmamudunuri)
+[LinkedIn](https://www.linkedin.com/in/vigneshvarma)
+
 
 
